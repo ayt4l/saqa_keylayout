@@ -7,7 +7,7 @@
 Совместим с Mac OS X 10.5 и выше.
 
 ### Установка
-Для установки раскладки [загрузите установщик](https://github.com/ayt4l/saqa_keylayout/raw/refs/heads/main/Saqa_Keylayout.dmg).
+Для установки раскладки [загрузите установщик](https://github.com/ayt4l/saqa_keylayout/releases/download/Saqa_Keylayout_v1/Saqa.Keylayout.dmg).
 После загрузки, откройте файл и запустите «saqatyla». Дальше два раза нажмите на кнопку «Install for current user». (Также рекомендуется перезагрузить Mac)
 
 После установки добавьте раскладку в источники ввода.

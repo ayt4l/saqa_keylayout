@@ -1,6 +1,8 @@
 Сахалыы раскладка
 ------------------------------------------
 
+https://github.com/ayt4l/saqa_keylayout/blob/main/.github/thumbnail.png?raw=true
+
 ### Описание
 Якутская раскладка для пользователей Mac.
 
